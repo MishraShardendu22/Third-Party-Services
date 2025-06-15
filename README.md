@@ -35,11 +35,14 @@
 - PostHog (Analytics)  
 - Mixpanel (Product Analytics)  
 
-## Database (including glob)  
-- Supabase (Postgres)  
-- Firebase Firestore  
+## Database (including blob)
+- Supabase (Postgres + blob via Storage API)
+- Firebase Firestore (NoSQL)  
 - MongoDB Atlas  
 - PlanetScale (MySQL)  
+- AWS S3 (blob storage)  
+- Azure Blob Storage  
+- Google Cloud Storage  
 
 ## Media  
 - Cloudinary  
